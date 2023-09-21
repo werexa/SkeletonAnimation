@@ -17,7 +17,8 @@ npm install --save three @types/three
 npm install npm-run-all
 npm install typescript ts-loader
 npm install webpack webpack-cli
-npm install live-server```
+npm install live-server
+```
 
 ## Uruchomienie projektu
 Po zainstalowaniu zależności możesz uruchomić projekt za pomocą poniższych komend:
