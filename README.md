@@ -1,7 +1,4 @@
-Oto przykład README.md dla projektu animacji szkieletowej opartego na TypeScript i Three.js:
 
-markdown
-Copy code
 # Skeleton Animation
 
 Projekt animacji szkieletowej napisany w TypeScript z użyciem biblioteki Three.js i modeli z mixamo.
