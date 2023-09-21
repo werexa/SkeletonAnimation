@@ -1,8 +1,8 @@
-
+![example](https://github.com/werexa/SkeletonAnimation/assets/54885526/919dd828-07b5-4f97-9a06-69fa82d610b7)
 # Skeleton Animation
 
 Projekt animacji szkieletowej napisany w TypeScript z użyciem biblioteki Three.js i modeli z mixamo.
-
+![example](https://github.com/werexa/SkeletonAnimation/blob/main/example.png?raw=true)
 ## Instalacja
 Aby uruchomić projekt, wykonaj następujące kroki:
 
